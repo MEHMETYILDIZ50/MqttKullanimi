@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqttKullanimVerici", "MqttKullanimOrnekNet\MqttKullanimVerici.csproj", "{9892D58C-D588-4AA8-A500-3C9583BAB24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqttKullanimAlici", "MqttKullanimAlici\MqttKullanimAlici.csproj", "{2748F6F7-1760-44D6-9B41-CFE7A96A7EF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9892D58C-D588-4AA8-A500-3C9583BAB24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9892D58C-D588-4AA8-A500-3C9583BAB24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9892D58C-D588-4AA8-A500-3C9583BAB24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9892D58C-D588-4AA8-A500-3C9583BAB24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2748F6F7-1760-44D6-9B41-CFE7A96A7EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2748F6F7-1760-44D6-9B41-CFE7A96A7EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2748F6F7-1760-44D6-9B41-CFE7A96A7EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2748F6F7-1760-44D6-9B41-CFE7A96A7EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2A1FD4-4861-41E9-9537-32C12DA6914B}
+	EndGlobalSection
+EndGlobal
